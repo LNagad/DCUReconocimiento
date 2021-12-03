@@ -1,0 +1,11 @@
+C:\Users\Maycol\Pictures\DCUReconocimiento\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+C:\Users\Maycol\Pictures\DCUReconocimiento\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+C:\Users\Maycol\Pictures\DCUReconocimiento\Reconocimiento facial\obj\Debug\App.csproj.AssemblyReference.cache
+C:\Users\Maycol\Pictures\DCUReconocimiento\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Registrar.resources
+C:\Users\Maycol\Pictures\DCUReconocimiento\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+C:\Users\Maycol\Pictures\DCUReconocimiento\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Reconocimiento.resources
+C:\Users\Maycol\Pictures\DCUReconocimiento\Reconocimiento facial\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\Maycol\Pictures\DCUReconocimiento\Reconocimiento facial\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\Maycol\Pictures\DCUReconocimiento\Reconocimiento facial\obj\Debug\App.csproj.CopyComplete
+C:\Users\Maycol\Pictures\DCUReconocimiento\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+C:\Users\Maycol\Pictures\DCUReconocimiento\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb

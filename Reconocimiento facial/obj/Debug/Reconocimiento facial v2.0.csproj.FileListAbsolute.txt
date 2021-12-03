@@ -1,0 +1,33 @@
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\Reconocimiento facial v2.0\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\Reconocimiento facial v2.0\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csprojResolveAssemblyReference.cache
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Registrar.resources
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Reconocimiento.resources
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.GenerateResource.cache
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.CoreCompileInputs.cache
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.CopyComplete
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\ProyectoIA_Grillet-Cordoba-Linarez-Urdaneta\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\ProyectoIA_Grillet-Cordoba-Linarez-Urdaneta\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\ProyectoIA_Grillet-Cordoba-Linarez-Urdaneta\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csprojAssemblyReference.cache
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\ProyectoIA_Grillet-Cordoba-Linarez-Urdaneta\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Registrar.resources
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\ProyectoIA_Grillet-Cordoba-Linarez-Urdaneta\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\ProyectoIA_Grillet-Cordoba-Linarez-Urdaneta\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Reconocimiento.resources
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\ProyectoIA_Grillet-Cordoba-Linarez-Urdaneta\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.GenerateResource.cache
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\ProyectoIA_Grillet-Cordoba-Linarez-Urdaneta\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.CoreCompileInputs.cache
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\ProyectoIA_Grillet-Cordoba-Linarez-Urdaneta\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.CopyComplete
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\ProyectoIA_Grillet-Cordoba-Linarez-Urdaneta\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\ProyectoIA_Grillet-Cordoba-Linarez-Urdaneta\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
+C:\Users\Maycol\Pictures\ProyectoIA_Grillet-Cordoba-Linarez-Urdaneta\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+C:\Users\Maycol\Pictures\ProyectoIA_Grillet-Cordoba-Linarez-Urdaneta\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+C:\Users\Maycol\Pictures\ProyectoIA_Grillet-Cordoba-Linarez-Urdaneta\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.AssemblyReference.cache
+C:\Users\Maycol\Pictures\ProyectoIA_Grillet-Cordoba-Linarez-Urdaneta\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Registrar.resources
+C:\Users\Maycol\Pictures\ProyectoIA_Grillet-Cordoba-Linarez-Urdaneta\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+C:\Users\Maycol\Pictures\ProyectoIA_Grillet-Cordoba-Linarez-Urdaneta\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Reconocimiento.resources
+C:\Users\Maycol\Pictures\ProyectoIA_Grillet-Cordoba-Linarez-Urdaneta\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.GenerateResource.cache
+C:\Users\Maycol\Pictures\ProyectoIA_Grillet-Cordoba-Linarez-Urdaneta\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.CoreCompileInputs.cache
+C:\Users\Maycol\Pictures\ProyectoIA_Grillet-Cordoba-Linarez-Urdaneta\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.CopyComplete
+C:\Users\Maycol\Pictures\ProyectoIA_Grillet-Cordoba-Linarez-Urdaneta\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+C:\Users\Maycol\Pictures\ProyectoIA_Grillet-Cordoba-Linarez-Urdaneta\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
